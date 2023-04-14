@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32804.467
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VariablesConstantes", "VariablesConstantes\VariablesConstantes.csproj", "{5C2C52C8-5939-4B8B-A8B6-07623CB360A5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesafioClase1HugoMansilla", "DesafioClase1HugoMansilla\DesafioClase1HugoMansilla.csproj", "{26885475-12A6-46F9-A478-5A6D361A28C2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5C2C52C8-5939-4B8B-A8B6-07623CB360A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C2C52C8-5939-4B8B-A8B6-07623CB360A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C2C52C8-5939-4B8B-A8B6-07623CB360A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C2C52C8-5939-4B8B-A8B6-07623CB360A5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{26885475-12A6-46F9-A478-5A6D361A28C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{26885475-12A6-46F9-A478-5A6D361A28C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{26885475-12A6-46F9-A478-5A6D361A28C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{26885475-12A6-46F9-A478-5A6D361A28C2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {69856D23-9AC6-45CA-BD52-B4973B342CB1}
+	EndGlobalSection
+EndGlobal

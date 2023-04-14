@@ -1,0 +1,15 @@
+C:\Users\_Hugo\source\repos\Clase1\VariablesConstantes\bin\Debug\net6.0\VariablesConstantes.exe
+C:\Users\_Hugo\source\repos\Clase1\VariablesConstantes\bin\Debug\net6.0\VariablesConstantes.deps.json
+C:\Users\_Hugo\source\repos\Clase1\VariablesConstantes\bin\Debug\net6.0\VariablesConstantes.runtimeconfig.json
+C:\Users\_Hugo\source\repos\Clase1\VariablesConstantes\bin\Debug\net6.0\VariablesConstantes.dll
+C:\Users\_Hugo\source\repos\Clase1\VariablesConstantes\bin\Debug\net6.0\VariablesConstantes.pdb
+C:\Users\_Hugo\source\repos\Clase1\VariablesConstantes\obj\Debug\net6.0\VariablesConstantes.csproj.AssemblyReference.cache
+C:\Users\_Hugo\source\repos\Clase1\VariablesConstantes\obj\Debug\net6.0\VariablesConstantes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\_Hugo\source\repos\Clase1\VariablesConstantes\obj\Debug\net6.0\VariablesConstantes.AssemblyInfoInputs.cache
+C:\Users\_Hugo\source\repos\Clase1\VariablesConstantes\obj\Debug\net6.0\VariablesConstantes.AssemblyInfo.cs
+C:\Users\_Hugo\source\repos\Clase1\VariablesConstantes\obj\Debug\net6.0\VariablesConstantes.csproj.CoreCompileInputs.cache
+C:\Users\_Hugo\source\repos\Clase1\VariablesConstantes\obj\Debug\net6.0\VariablesConstantes.dll
+C:\Users\_Hugo\source\repos\Clase1\VariablesConstantes\obj\Debug\net6.0\refint\VariablesConstantes.dll
+C:\Users\_Hugo\source\repos\Clase1\VariablesConstantes\obj\Debug\net6.0\VariablesConstantes.pdb
+C:\Users\_Hugo\source\repos\Clase1\VariablesConstantes\obj\Debug\net6.0\VariablesConstantes.genruntimeconfig.cache
+C:\Users\_Hugo\source\repos\Clase1\VariablesConstantes\obj\Debug\net6.0\ref\VariablesConstantes.dll
