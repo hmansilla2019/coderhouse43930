@@ -1,0 +1,15 @@
+C:\coderhouse43930\coderhouse43930\AfterClass1\ListaPrecios\ListaPrecios\bin\Debug\net6.0\ListaPrecios.exe
+C:\coderhouse43930\coderhouse43930\AfterClass1\ListaPrecios\ListaPrecios\bin\Debug\net6.0\ListaPrecios.deps.json
+C:\coderhouse43930\coderhouse43930\AfterClass1\ListaPrecios\ListaPrecios\bin\Debug\net6.0\ListaPrecios.runtimeconfig.json
+C:\coderhouse43930\coderhouse43930\AfterClass1\ListaPrecios\ListaPrecios\bin\Debug\net6.0\ListaPrecios.dll
+C:\coderhouse43930\coderhouse43930\AfterClass1\ListaPrecios\ListaPrecios\bin\Debug\net6.0\ListaPrecios.pdb
+C:\coderhouse43930\coderhouse43930\AfterClass1\ListaPrecios\ListaPrecios\obj\Debug\net6.0\ListaPrecios.csproj.AssemblyReference.cache
+C:\coderhouse43930\coderhouse43930\AfterClass1\ListaPrecios\ListaPrecios\obj\Debug\net6.0\ListaPrecios.GeneratedMSBuildEditorConfig.editorconfig
+C:\coderhouse43930\coderhouse43930\AfterClass1\ListaPrecios\ListaPrecios\obj\Debug\net6.0\ListaPrecios.AssemblyInfoInputs.cache
+C:\coderhouse43930\coderhouse43930\AfterClass1\ListaPrecios\ListaPrecios\obj\Debug\net6.0\ListaPrecios.AssemblyInfo.cs
+C:\coderhouse43930\coderhouse43930\AfterClass1\ListaPrecios\ListaPrecios\obj\Debug\net6.0\ListaPrecios.csproj.CoreCompileInputs.cache
+C:\coderhouse43930\coderhouse43930\AfterClass1\ListaPrecios\ListaPrecios\obj\Debug\net6.0\ListaPrecios.dll
+C:\coderhouse43930\coderhouse43930\AfterClass1\ListaPrecios\ListaPrecios\obj\Debug\net6.0\refint\ListaPrecios.dll
+C:\coderhouse43930\coderhouse43930\AfterClass1\ListaPrecios\ListaPrecios\obj\Debug\net6.0\ListaPrecios.pdb
+C:\coderhouse43930\coderhouse43930\AfterClass1\ListaPrecios\ListaPrecios\obj\Debug\net6.0\ListaPrecios.genruntimeconfig.cache
+C:\coderhouse43930\coderhouse43930\AfterClass1\ListaPrecios\ListaPrecios\obj\Debug\net6.0\ref\ListaPrecios.dll

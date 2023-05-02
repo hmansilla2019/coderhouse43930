@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ListaPrecios/1.0.0": {
+        "runtime": {
+          "ListaPrecios.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ListaPrecios/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
