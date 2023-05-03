@@ -1,0 +1,15 @@
+C:\coderhouse43930\coderhouse43930\Clase5\POO\bin\Debug\net6.0\POO.exe
+C:\coderhouse43930\coderhouse43930\Clase5\POO\bin\Debug\net6.0\POO.deps.json
+C:\coderhouse43930\coderhouse43930\Clase5\POO\bin\Debug\net6.0\POO.runtimeconfig.json
+C:\coderhouse43930\coderhouse43930\Clase5\POO\bin\Debug\net6.0\POO.dll
+C:\coderhouse43930\coderhouse43930\Clase5\POO\bin\Debug\net6.0\POO.pdb
+C:\coderhouse43930\coderhouse43930\Clase5\POO\obj\Debug\net6.0\POO.csproj.AssemblyReference.cache
+C:\coderhouse43930\coderhouse43930\Clase5\POO\obj\Debug\net6.0\POO.GeneratedMSBuildEditorConfig.editorconfig
+C:\coderhouse43930\coderhouse43930\Clase5\POO\obj\Debug\net6.0\POO.AssemblyInfoInputs.cache
+C:\coderhouse43930\coderhouse43930\Clase5\POO\obj\Debug\net6.0\POO.AssemblyInfo.cs
+C:\coderhouse43930\coderhouse43930\Clase5\POO\obj\Debug\net6.0\POO.csproj.CoreCompileInputs.cache
+C:\coderhouse43930\coderhouse43930\Clase5\POO\obj\Debug\net6.0\POO.dll
+C:\coderhouse43930\coderhouse43930\Clase5\POO\obj\Debug\net6.0\refint\POO.dll
+C:\coderhouse43930\coderhouse43930\Clase5\POO\obj\Debug\net6.0\POO.pdb
+C:\coderhouse43930\coderhouse43930\Clase5\POO\obj\Debug\net6.0\POO.genruntimeconfig.cache
+C:\coderhouse43930\coderhouse43930\Clase5\POO\obj\Debug\net6.0\ref\POO.dll
