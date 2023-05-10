@@ -6,20 +6,20 @@ using System.Threading.Tasks;
 
 namespace POO
 {
-    public class HelperPantalla
+    public static class HelperPantalla
     {
 
    
-        internal void MostrarMensajeConSalto(string texto)
+        internal static void MostrarMensajeConSalto(string texto)
         {
             Console.WriteLine(texto);
         }
 
-        internal void MostrarMensajeSinSalto(string texto)
+        internal static void MostrarMensajeSinSalto(string texto)
         {
             Console.Write(texto);
         }
-        internal string IngresarDato()
+        internal static string IngresarDato()
         {
             return Console.ReadLine();
         }

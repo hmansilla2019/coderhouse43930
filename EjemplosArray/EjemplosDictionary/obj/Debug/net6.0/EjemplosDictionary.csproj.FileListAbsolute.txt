@@ -1,0 +1,15 @@
+C:\coderhouse43930\coderhouse43930\EjemplosArray\EjemplosDictionary\obj\Debug\net6.0\EjemplosDictionary.csproj.AssemblyReference.cache
+C:\coderhouse43930\coderhouse43930\EjemplosArray\EjemplosDictionary\obj\Debug\net6.0\EjemplosDictionary.GeneratedMSBuildEditorConfig.editorconfig
+C:\coderhouse43930\coderhouse43930\EjemplosArray\EjemplosDictionary\obj\Debug\net6.0\EjemplosDictionary.AssemblyInfoInputs.cache
+C:\coderhouse43930\coderhouse43930\EjemplosArray\EjemplosDictionary\obj\Debug\net6.0\EjemplosDictionary.AssemblyInfo.cs
+C:\coderhouse43930\coderhouse43930\EjemplosArray\EjemplosDictionary\obj\Debug\net6.0\EjemplosDictionary.csproj.CoreCompileInputs.cache
+C:\coderhouse43930\coderhouse43930\EjemplosArray\EjemplosDictionary\bin\Debug\net6.0\EjemplosDictionary.exe
+C:\coderhouse43930\coderhouse43930\EjemplosArray\EjemplosDictionary\bin\Debug\net6.0\EjemplosDictionary.deps.json
+C:\coderhouse43930\coderhouse43930\EjemplosArray\EjemplosDictionary\bin\Debug\net6.0\EjemplosDictionary.runtimeconfig.json
+C:\coderhouse43930\coderhouse43930\EjemplosArray\EjemplosDictionary\bin\Debug\net6.0\EjemplosDictionary.dll
+C:\coderhouse43930\coderhouse43930\EjemplosArray\EjemplosDictionary\bin\Debug\net6.0\EjemplosDictionary.pdb
+C:\coderhouse43930\coderhouse43930\EjemplosArray\EjemplosDictionary\obj\Debug\net6.0\EjemplosDictionary.dll
+C:\coderhouse43930\coderhouse43930\EjemplosArray\EjemplosDictionary\obj\Debug\net6.0\refint\EjemplosDictionary.dll
+C:\coderhouse43930\coderhouse43930\EjemplosArray\EjemplosDictionary\obj\Debug\net6.0\EjemplosDictionary.pdb
+C:\coderhouse43930\coderhouse43930\EjemplosArray\EjemplosDictionary\obj\Debug\net6.0\EjemplosDictionary.genruntimeconfig.cache
+C:\coderhouse43930\coderhouse43930\EjemplosArray\EjemplosDictionary\obj\Debug\net6.0\ref\EjemplosDictionary.dll

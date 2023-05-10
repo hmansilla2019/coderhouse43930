@@ -1,0 +1,15 @@
+C:\coderhouse43930\coderhouse43930\EjemplosArray\Carta\bin\Debug\net6.0\Carta.exe
+C:\coderhouse43930\coderhouse43930\EjemplosArray\Carta\bin\Debug\net6.0\Carta.deps.json
+C:\coderhouse43930\coderhouse43930\EjemplosArray\Carta\bin\Debug\net6.0\Carta.runtimeconfig.json
+C:\coderhouse43930\coderhouse43930\EjemplosArray\Carta\bin\Debug\net6.0\Carta.dll
+C:\coderhouse43930\coderhouse43930\EjemplosArray\Carta\bin\Debug\net6.0\Carta.pdb
+C:\coderhouse43930\coderhouse43930\EjemplosArray\Carta\obj\Debug\net6.0\Carta.csproj.AssemblyReference.cache
+C:\coderhouse43930\coderhouse43930\EjemplosArray\Carta\obj\Debug\net6.0\Carta.GeneratedMSBuildEditorConfig.editorconfig
+C:\coderhouse43930\coderhouse43930\EjemplosArray\Carta\obj\Debug\net6.0\Carta.AssemblyInfoInputs.cache
+C:\coderhouse43930\coderhouse43930\EjemplosArray\Carta\obj\Debug\net6.0\Carta.AssemblyInfo.cs
+C:\coderhouse43930\coderhouse43930\EjemplosArray\Carta\obj\Debug\net6.0\Carta.csproj.CoreCompileInputs.cache
+C:\coderhouse43930\coderhouse43930\EjemplosArray\Carta\obj\Debug\net6.0\Carta.dll
+C:\coderhouse43930\coderhouse43930\EjemplosArray\Carta\obj\Debug\net6.0\refint\Carta.dll
+C:\coderhouse43930\coderhouse43930\EjemplosArray\Carta\obj\Debug\net6.0\Carta.pdb
+C:\coderhouse43930\coderhouse43930\EjemplosArray\Carta\obj\Debug\net6.0\Carta.genruntimeconfig.cache
+C:\coderhouse43930\coderhouse43930\EjemplosArray\Carta\obj\Debug\net6.0\ref\Carta.dll

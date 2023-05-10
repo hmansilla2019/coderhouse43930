@@ -21,8 +21,7 @@ namespace POO
         static void Main(string[] args)
         {
             // Helper para manejo de datos en pantalla
-            HelperPantalla pantalla = new HelperPantalla();
-
+           
             int aceleracionInicial = 0;
          
             // Creo un objeto con el constructor
@@ -30,28 +29,28 @@ namespace POO
             // Valores por default
             Vehiculo miVehiculoDefault = new Vehiculo();
             miVehiculoDefault.MostrarDatosObjeto(miVehiculoDefault);
-            pantalla.MostrarMensajeConSalto("------------------------------------------------------------");
+            HelperPantalla.MostrarMensajeConSalto("------------------------------------------------------------");
             // Salgamos un rato a manejar con nuestro vehiculo
-            pantalla.MostrarMensajeConSalto("Salgamos en nuestro vehiculo");
+            HelperPantalla.MostrarMensajeConSalto("Salgamos en nuestro vehiculo");
             miVehiculoDefault.Conducir(ref miVehiculoDefault);
-            pantalla.MostrarMensajeConSalto("Luego de haber conducido su velocidad es " + miVehiculoDefault.Velocidad + "km/h");
-            pantalla.MostrarMensajeConSalto("------------------------------------------------------------");
+            HelperPantalla.MostrarMensajeConSalto("Luego de haber conducido su velocidad es " + miVehiculoDefault.Velocidad + "km/h");
+            HelperPantalla.MostrarMensajeConSalto("------------------------------------------------------------");
            
             Vehiculo miVehiculoCustom =new Vehiculo().CargarDatosObjeto();
             
-            pantalla.MostrarMensajeConSalto("------------------------------------------------------------");
+            HelperPantalla.MostrarMensajeConSalto("------------------------------------------------------------");
             miVehiculoCustom.MostrarDatosObjeto(miVehiculoCustom);
-            pantalla.MostrarMensajeConSalto("------------------------------------------------------------");
+            HelperPantalla.MostrarMensajeConSalto("------------------------------------------------------------");
             
             // Salgamos un rato a manejar con nuestro vehiculo
             // Se hace sobre carga del metodo
             // Salgamos un rato a manejar con nuestro vehiculo
-            pantalla.MostrarMensajeConSalto("Salgamos en nuestro vehiculo");
-            pantalla.MostrarMensajeSinSalto("Acelere Indicando aceleracion: ");
-            aceleracionInicial = int.Parse(pantalla.IngresarDato());
+            HelperPantalla.MostrarMensajeConSalto("Salgamos en nuestro vehiculo");
+            HelperPantalla.MostrarMensajeSinSalto("Acelere Indicando aceleracion: ");
+            aceleracionInicial = int.Parse(HelperPantalla.IngresarDato());
             miVehiculoCustom.Conducir(ref miVehiculoCustom, aceleracionInicial);
-            pantalla.MostrarMensajeConSalto("------------------------------------------------------------");
-            pantalla.MostrarMensajeConSalto("Luego de haber conducido su velocidad es " + miVehiculoDefault.Velocidad + "km/h");
+            HelperPantalla.MostrarMensajeConSalto("------------------------------------------------------------");
+            HelperPantalla.MostrarMensajeConSalto("Luego de haber conducido su velocidad es " + miVehiculoDefault.Velocidad + "km/h");
             Console.ReadKey();
         }
 

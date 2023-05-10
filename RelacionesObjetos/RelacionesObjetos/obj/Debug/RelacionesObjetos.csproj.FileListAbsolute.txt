@@ -1,0 +1,8 @@
+C:\coderhouse43930\coderhouse43930\RelacionesObjetos\RelacionesObjetos\bin\Debug\RelacionesObjetos.exe.config
+C:\coderhouse43930\coderhouse43930\RelacionesObjetos\RelacionesObjetos\bin\Debug\RelacionesObjetos.exe
+C:\coderhouse43930\coderhouse43930\RelacionesObjetos\RelacionesObjetos\bin\Debug\RelacionesObjetos.pdb
+C:\coderhouse43930\coderhouse43930\RelacionesObjetos\RelacionesObjetos\obj\Debug\RelacionesObjetos.csproj.AssemblyReference.cache
+C:\coderhouse43930\coderhouse43930\RelacionesObjetos\RelacionesObjetos\obj\Debug\RelacionesObjetos.csproj.SuggestedBindingRedirects.cache
+C:\coderhouse43930\coderhouse43930\RelacionesObjetos\RelacionesObjetos\obj\Debug\RelacionesObjetos.csproj.CoreCompileInputs.cache
+C:\coderhouse43930\coderhouse43930\RelacionesObjetos\RelacionesObjetos\obj\Debug\RelacionesObjetos.exe
+C:\coderhouse43930\coderhouse43930\RelacionesObjetos\RelacionesObjetos\obj\Debug\RelacionesObjetos.pdb

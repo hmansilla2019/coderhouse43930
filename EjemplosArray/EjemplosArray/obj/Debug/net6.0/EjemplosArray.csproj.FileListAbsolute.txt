@@ -1,0 +1,15 @@
+C:\coderhouse43930\coderhouse43930\EjemplosArray\EjemplosArray\bin\Debug\net6.0\EjemplosArray.exe
+C:\coderhouse43930\coderhouse43930\EjemplosArray\EjemplosArray\bin\Debug\net6.0\EjemplosArray.deps.json
+C:\coderhouse43930\coderhouse43930\EjemplosArray\EjemplosArray\bin\Debug\net6.0\EjemplosArray.runtimeconfig.json
+C:\coderhouse43930\coderhouse43930\EjemplosArray\EjemplosArray\bin\Debug\net6.0\EjemplosArray.dll
+C:\coderhouse43930\coderhouse43930\EjemplosArray\EjemplosArray\bin\Debug\net6.0\EjemplosArray.pdb
+C:\coderhouse43930\coderhouse43930\EjemplosArray\EjemplosArray\obj\Debug\net6.0\EjemplosArray.csproj.AssemblyReference.cache
+C:\coderhouse43930\coderhouse43930\EjemplosArray\EjemplosArray\obj\Debug\net6.0\EjemplosArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\coderhouse43930\coderhouse43930\EjemplosArray\EjemplosArray\obj\Debug\net6.0\EjemplosArray.AssemblyInfoInputs.cache
+C:\coderhouse43930\coderhouse43930\EjemplosArray\EjemplosArray\obj\Debug\net6.0\EjemplosArray.AssemblyInfo.cs
+C:\coderhouse43930\coderhouse43930\EjemplosArray\EjemplosArray\obj\Debug\net6.0\EjemplosArray.csproj.CoreCompileInputs.cache
+C:\coderhouse43930\coderhouse43930\EjemplosArray\EjemplosArray\obj\Debug\net6.0\EjemplosArray.dll
+C:\coderhouse43930\coderhouse43930\EjemplosArray\EjemplosArray\obj\Debug\net6.0\refint\EjemplosArray.dll
+C:\coderhouse43930\coderhouse43930\EjemplosArray\EjemplosArray\obj\Debug\net6.0\EjemplosArray.pdb
+C:\coderhouse43930\coderhouse43930\EjemplosArray\EjemplosArray\obj\Debug\net6.0\EjemplosArray.genruntimeconfig.cache
+C:\coderhouse43930\coderhouse43930\EjemplosArray\EjemplosArray\obj\Debug\net6.0\ref\EjemplosArray.dll
