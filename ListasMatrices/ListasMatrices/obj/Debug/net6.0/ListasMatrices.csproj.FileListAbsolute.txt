@@ -1,0 +1,15 @@
+C:\coderhouse43930\coderhouse43930\ListasMatrices\ListasMatrices\bin\Debug\net6.0\ListasMatrices.exe
+C:\coderhouse43930\coderhouse43930\ListasMatrices\ListasMatrices\bin\Debug\net6.0\ListasMatrices.deps.json
+C:\coderhouse43930\coderhouse43930\ListasMatrices\ListasMatrices\bin\Debug\net6.0\ListasMatrices.runtimeconfig.json
+C:\coderhouse43930\coderhouse43930\ListasMatrices\ListasMatrices\bin\Debug\net6.0\ListasMatrices.dll
+C:\coderhouse43930\coderhouse43930\ListasMatrices\ListasMatrices\bin\Debug\net6.0\ListasMatrices.pdb
+C:\coderhouse43930\coderhouse43930\ListasMatrices\ListasMatrices\obj\Debug\net6.0\ListasMatrices.csproj.AssemblyReference.cache
+C:\coderhouse43930\coderhouse43930\ListasMatrices\ListasMatrices\obj\Debug\net6.0\ListasMatrices.GeneratedMSBuildEditorConfig.editorconfig
+C:\coderhouse43930\coderhouse43930\ListasMatrices\ListasMatrices\obj\Debug\net6.0\ListasMatrices.AssemblyInfoInputs.cache
+C:\coderhouse43930\coderhouse43930\ListasMatrices\ListasMatrices\obj\Debug\net6.0\ListasMatrices.AssemblyInfo.cs
+C:\coderhouse43930\coderhouse43930\ListasMatrices\ListasMatrices\obj\Debug\net6.0\ListasMatrices.csproj.CoreCompileInputs.cache
+C:\coderhouse43930\coderhouse43930\ListasMatrices\ListasMatrices\obj\Debug\net6.0\ListasMatrices.dll
+C:\coderhouse43930\coderhouse43930\ListasMatrices\ListasMatrices\obj\Debug\net6.0\refint\ListasMatrices.dll
+C:\coderhouse43930\coderhouse43930\ListasMatrices\ListasMatrices\obj\Debug\net6.0\ListasMatrices.pdb
+C:\coderhouse43930\coderhouse43930\ListasMatrices\ListasMatrices\obj\Debug\net6.0\ListasMatrices.genruntimeconfig.cache
+C:\coderhouse43930\coderhouse43930\ListasMatrices\ListasMatrices\obj\Debug\net6.0\ref\ListasMatrices.dll
