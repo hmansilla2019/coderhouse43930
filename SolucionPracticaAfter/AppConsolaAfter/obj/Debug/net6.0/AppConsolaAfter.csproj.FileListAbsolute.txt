@@ -1,0 +1,15 @@
+C:\coderhouse43930\coderhouse43930\SolucionPracticaAfter\AppConsolaAfter\obj\Debug\net6.0\AppConsolaAfter.csproj.AssemblyReference.cache
+C:\coderhouse43930\coderhouse43930\SolucionPracticaAfter\AppConsolaAfter\obj\Debug\net6.0\AppConsolaAfter.GeneratedMSBuildEditorConfig.editorconfig
+C:\coderhouse43930\coderhouse43930\SolucionPracticaAfter\AppConsolaAfter\obj\Debug\net6.0\AppConsolaAfter.AssemblyInfoInputs.cache
+C:\coderhouse43930\coderhouse43930\SolucionPracticaAfter\AppConsolaAfter\obj\Debug\net6.0\AppConsolaAfter.AssemblyInfo.cs
+C:\coderhouse43930\coderhouse43930\SolucionPracticaAfter\AppConsolaAfter\obj\Debug\net6.0\AppConsolaAfter.csproj.CoreCompileInputs.cache
+C:\coderhouse43930\coderhouse43930\SolucionPracticaAfter\AppConsolaAfter\bin\Debug\net6.0\AppConsolaAfter.exe
+C:\coderhouse43930\coderhouse43930\SolucionPracticaAfter\AppConsolaAfter\bin\Debug\net6.0\AppConsolaAfter.deps.json
+C:\coderhouse43930\coderhouse43930\SolucionPracticaAfter\AppConsolaAfter\bin\Debug\net6.0\AppConsolaAfter.runtimeconfig.json
+C:\coderhouse43930\coderhouse43930\SolucionPracticaAfter\AppConsolaAfter\bin\Debug\net6.0\AppConsolaAfter.dll
+C:\coderhouse43930\coderhouse43930\SolucionPracticaAfter\AppConsolaAfter\bin\Debug\net6.0\AppConsolaAfter.pdb
+C:\coderhouse43930\coderhouse43930\SolucionPracticaAfter\AppConsolaAfter\obj\Debug\net6.0\AppConsolaAfter.dll
+C:\coderhouse43930\coderhouse43930\SolucionPracticaAfter\AppConsolaAfter\obj\Debug\net6.0\refint\AppConsolaAfter.dll
+C:\coderhouse43930\coderhouse43930\SolucionPracticaAfter\AppConsolaAfter\obj\Debug\net6.0\AppConsolaAfter.pdb
+C:\coderhouse43930\coderhouse43930\SolucionPracticaAfter\AppConsolaAfter\obj\Debug\net6.0\AppConsolaAfter.genruntimeconfig.cache
+C:\coderhouse43930\coderhouse43930\SolucionPracticaAfter\AppConsolaAfter\obj\Debug\net6.0\ref\AppConsolaAfter.dll
