@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "HerenciaPolimorfismo/1.0.0": {
+        "dependencies": {
+          "ObjetosNegocio": "1.0.0"
+        },
+        "runtime": {
+          "HerenciaPolimorfismo.dll": {}
+        }
+      },
+      "ObjetosNegocio/1.0.0": {
+        "runtime": {
+          "ObjetosNegocio.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "HerenciaPolimorfismo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ObjetosNegocio/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

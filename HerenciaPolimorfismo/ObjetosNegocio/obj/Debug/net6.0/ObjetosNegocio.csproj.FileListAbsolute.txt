@@ -1,0 +1,12 @@
+C:\coderhouse43930\coderhouse43930\HerenciaPolimorfismo\ObjetosNegocio\bin\Debug\net6.0\ObjetosNegocio.deps.json
+C:\coderhouse43930\coderhouse43930\HerenciaPolimorfismo\ObjetosNegocio\bin\Debug\net6.0\ObjetosNegocio.dll
+C:\coderhouse43930\coderhouse43930\HerenciaPolimorfismo\ObjetosNegocio\bin\Debug\net6.0\ObjetosNegocio.pdb
+C:\coderhouse43930\coderhouse43930\HerenciaPolimorfismo\ObjetosNegocio\obj\Debug\net6.0\ObjetosNegocio.csproj.AssemblyReference.cache
+C:\coderhouse43930\coderhouse43930\HerenciaPolimorfismo\ObjetosNegocio\obj\Debug\net6.0\ObjetosNegocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\coderhouse43930\coderhouse43930\HerenciaPolimorfismo\ObjetosNegocio\obj\Debug\net6.0\ObjetosNegocio.AssemblyInfoInputs.cache
+C:\coderhouse43930\coderhouse43930\HerenciaPolimorfismo\ObjetosNegocio\obj\Debug\net6.0\ObjetosNegocio.AssemblyInfo.cs
+C:\coderhouse43930\coderhouse43930\HerenciaPolimorfismo\ObjetosNegocio\obj\Debug\net6.0\ObjetosNegocio.csproj.CoreCompileInputs.cache
+C:\coderhouse43930\coderhouse43930\HerenciaPolimorfismo\ObjetosNegocio\obj\Debug\net6.0\ObjetosNegocio.dll
+C:\coderhouse43930\coderhouse43930\HerenciaPolimorfismo\ObjetosNegocio\obj\Debug\net6.0\refint\ObjetosNegocio.dll
+C:\coderhouse43930\coderhouse43930\HerenciaPolimorfismo\ObjetosNegocio\obj\Debug\net6.0\ObjetosNegocio.pdb
+C:\coderhouse43930\coderhouse43930\HerenciaPolimorfismo\ObjetosNegocio\obj\Debug\net6.0\ref\ObjetosNegocio.dll
