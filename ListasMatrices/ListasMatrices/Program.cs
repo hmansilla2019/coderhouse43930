@@ -48,69 +48,31 @@
 //    Console.WriteLine(precio);
 //}
 
+
 using ListasMatrices;
-List<Producto> productos = new List<Producto>();
+
 Producto producto = new Producto();
 
-producto.Descripcion = "Leche";
-producto.Precio = 500;
+List<Producto> lista = new List<Producto>();
 
-productos.Add(producto);
+lista = producto.ListarProductos();
 
-productos.Add(new Producto() { Descripcion="Agua", Precio=1000 });
-productos.Add(new Producto() { Descripcion = "Pan", Precio = 700 });
-productos.Add(new Producto() { Descripcion = "Aceite", Precio = 1200 });
-productos.Add(new Producto("Fideos", 600));
-productos.Add(new Producto("Tomate", 800));
-productos.Add(new Producto("Gaseosa", 700));
-
-
-Console.WriteLine("Primera Lista");
-foreach (var item in productos)
+foreach (var item in lista)
 {
-    Console.WriteLine("Descripcion: " + item.Descripcion + " - Precio: " + item.Precio.ToString());
+    Console.WriteLine("Id: " + item.Id);
+
+    Console.WriteLine("Descripcion: " + item.Descripciones);
+
+    Console.WriteLine("Costo: " + item.Costo);
+
+    Console.WriteLine("PrecioVenta: " + item.PrecioVenta);
+
+    Console.WriteLine("Id: " + item.Id);
+
+    Console.WriteLine("Id: " + item.Id);
+
+
 }
-
-
-
-Producto[] producto2 =
-{
-    new Producto() { Descripcion="Coca Cola", Precio=700 },
-    new Producto() { Descripcion="Cigarrillos", Precio=1200 },
-    new Producto() { Descripcion="Naranja", Precio=500 },
-    new Producto() { Descripcion="Fosforos", Precio=300 }
-};
-
-Producto productoLista = new Producto();
-productoLista.InsertarEnLista(producto2);
-
-
-Console.WriteLine("Segunda Lista");
-foreach (var item in productoLista.Productos)
-{
-    Console.WriteLine("Descripcion: " + item.Descripcion + " - Precio: " + item.Precio.ToString());
-}
-
-Console.WriteLine("Tercera Lista");
-List<Producto> productosList = producto2.ToList();
-foreach (var item in productosList)
-{
-    Console.WriteLine("Descripcion: " + item.Descripcion + " - Precio: " + item.Precio.ToString());
-}
-
-
-Console.WriteLine("Cuarta Lista");
-Producto[] productoArray = productosList.ToArray();
-foreach (var item in productoArray)
-{
-    Console.WriteLine("Descripcion: " + item.Descripcion + " - Precio: " + item.Precio.ToString());
-}
-
-
-
-
-
-
 
 
 

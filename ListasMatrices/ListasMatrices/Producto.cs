@@ -4,12 +4,20 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+using System.Data.SqlClient;
+using System.Data;
+
 namespace ListasMatrices
 {
-    internal class Producto
+    public class Producto
     {
-        public string Descripcion { get; set; }
-        public int Precio { get; set; }
+        // SELECT [Id],[Descripciones],[Costo],[PrecioVenta],[Stock],[IdUsuario] FROM [SistemaGestion].[dbo].[Producto]
+        public long Id { get; set; }
+        public string Descripciones { get; set; }
+        public decimal Costo { get; set; }
+        public decimal PrecioVenta { get; set; }
+        public int Stock { get; set; }
+        public long IdUsuario { get; set; }
 
         public List<Producto> Productos { get; set; }
 
@@ -17,20 +25,78 @@ namespace ListasMatrices
         {
             Productos = new List<Producto>();
         }
-        public Producto(string descripcion, int precio)
+      
+        public List<Producto> ListarProductos()
         {
-            Productos = new List<Producto>();
-            Descripcion = descripcion;
-            Precio = precio;
-        }   
 
-        public void InsertarEnLista(Producto[] productos)
-        {
-            for (int i = 0; i < productos.Length; i++)
+            string connectionString = @"Server=LAPTOP-D0DVPQB2\SQLHUGO;Database=SistemaGestion;Trusted_Connection=True;";
+            var query = "SELECT Id,Descripciones,Costo,PrecioVenta,Stock,IdUsuario FROM Producto";
+            var listaProductos = new List<Producto>();
+
+            using (SqlConnection conect = new SqlConnection(connectionString))
             {
-                Productos.Add(new Producto(productos[i].Descripcion, productos[i].Precio));
-            }
+                conect.Open();
+                using (SqlCommand comando = new SqlCommand(query, conect))
+                {
+                    using (SqlDataReader dr = comando.ExecuteReader())
+                    {
 
+                        while (dr.Read())
+                        {
+                            var producto = new Producto();
+                            producto.Id = dr.GetInt64("Id");
+                            producto.Descripciones = dr.GetString("Descripciones");
+                            producto.Costo =dr.GetDecimal("Costo");
+                            producto.PrecioVenta = dr.GetDecimal("PrecioVenta");
+                            producto.Stock = dr.GetInt32("Stock");
+                            producto.IdUsuario =dr.GetInt64("IdUsuario");
+                            listaProductos.Add(producto);
+                        }
+
+                    }
+
+                }
+            }
+            return listaProductos;
+        }
+
+        public Producto GetProducto(int id)
+        {
+
+            string connectionString = @"Server=LAPTOP-D0DVPQB2\SQLHUGO;Database=SistemaGestion;Trusted_Connection=True;";
+            var query = "SELECT Id,Descripciones,Costo,PrecioVenta,Stock,IdUsuario FROM Producto WHERE Id=@pId";
+            var producto = new Producto();
+
+            using (SqlConnection conect = new SqlConnection(connectionString))
+            {
+                conect.Open();
+                using (SqlCommand comando = new SqlCommand(query, conect))
+                {
+
+                    SqlParameter parametro = new SqlParameter();
+                    parametro.ParameterName = "@pId";
+                    parametro.DbType = DbType.Int32;
+                    parametro.Value = Id;
+                    comando.Parameters.Add(parametro);
+
+                    using (SqlDataReader dr = comando.ExecuteReader())
+                    {
+                        while (dr.Read())
+                        {
+                      
+                            producto.Id = dr.GetInt64("Id");
+                            producto.Descripciones = dr.GetString("Descripciones");
+                            producto.Costo = dr.GetDecimal("Costo");
+                            producto.PrecioVenta = dr.GetDecimal("PrecioVenta");
+                            producto.Stock = dr.GetInt32("Stock");
+                            producto.IdUsuario = dr.GetInt64("IdUsuario");
+                          
+                        }
+                    }
+
+                }
+            }
+            return producto;
         }
 
     }

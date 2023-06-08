@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ObjetosNegocio
 {
-    public class Avion : Vehiculo, IComercial
+    public class Avion : Vehiculo, IComercial, IImpuestos
     {
         public Avion()
         {
@@ -24,10 +24,17 @@ namespace ObjetosNegocio
             _velocidad += aceleracion*100;
         }
 
+        public decimal CalcularImpuestos()
+        {
+            return 20000;
+        }
+
         public override void Frenar()
         {
             _velocidad = 0;
         }
+
+      
 
         public void PedirAutorizacion()
         {

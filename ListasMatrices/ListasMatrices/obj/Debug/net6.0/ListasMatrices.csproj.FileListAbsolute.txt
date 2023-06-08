@@ -13,3 +13,11 @@ C:\coderhouse43930\coderhouse43930\ListasMatrices\ListasMatrices\obj\Debug\net6.
 C:\coderhouse43930\coderhouse43930\ListasMatrices\ListasMatrices\obj\Debug\net6.0\ListasMatrices.pdb
 C:\coderhouse43930\coderhouse43930\ListasMatrices\ListasMatrices\obj\Debug\net6.0\ListasMatrices.genruntimeconfig.cache
 C:\coderhouse43930\coderhouse43930\ListasMatrices\ListasMatrices\obj\Debug\net6.0\ref\ListasMatrices.dll
+C:\coderhouse43930\coderhouse43930\ListasMatrices\ListasMatrices\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\coderhouse43930\coderhouse43930\ListasMatrices\ListasMatrices\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\coderhouse43930\coderhouse43930\ListasMatrices\ListasMatrices\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\coderhouse43930\coderhouse43930\ListasMatrices\ListasMatrices\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\coderhouse43930\coderhouse43930\ListasMatrices\ListasMatrices\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\coderhouse43930\coderhouse43930\ListasMatrices\ListasMatrices\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\coderhouse43930\coderhouse43930\ListasMatrices\ListasMatrices\obj\Debug\net6.0\ListasMatrices.csproj.ResolveComReference.cache
+C:\coderhouse43930\coderhouse43930\ListasMatrices\ListasMatrices\obj\Debug\net6.0\ListasMatrices.csproj.CopyComplete

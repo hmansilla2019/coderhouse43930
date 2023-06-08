@@ -1,6 +1,6 @@
 ﻿using ObjetosNegocio;
 
-Vehiculo vehiculo = new Vehiculo();
+Vehiculo vehiculo = new Auto();
 vehiculo.Marca = "Chevrolet";
 vehiculo.Modelo = "Corsa";
 vehiculo.Color = "Azul";
